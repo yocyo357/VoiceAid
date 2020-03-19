@@ -1,0 +1,26 @@
+dependencies: \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTJavaScriptLoader.mm \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/ios/build/Build/Products/Debug-iphoneos/include/cxxreact/JSBundleType.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/ios/build/Build/Products/Debug-iphoneos/include/jschelpers/JavaScriptCore.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/ios/build/Build/Products/Debug-iphoneos/include/jschelpers/JSCWrapper.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTConvert.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Views/RCTAnimationType.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Views/RCTTextDecorationLineType.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/ios/build/Build/Products/Debug-iphoneos/include/yoga/Yoga.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGEnums.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/ios/build/Build/Products/Debug-iphoneos/include/yoga/YGMacros.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTMultipartDataTask.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTMultipartStreamReader.h \
+  /Users/rgpogado/Documents/Projects/VoiceAid/node_modules/react-native/React/Base/RCTPerformanceLogger.h

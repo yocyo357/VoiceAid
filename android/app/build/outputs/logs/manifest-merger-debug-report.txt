@@ -1,0 +1,278 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+MERGED from [:react-native-tts] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-tts/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-16:12
+MERGED from [:react-native-immediate-phone-call] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-immediate-phone-call/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-maps] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/118e2f236c2c46be82b78f73704d90ea/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:17:1-29:12
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/rg/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/b6c6f1fb3eedf804fb8c77cd40e32e06/AndroidManifest.xml:2:1-15:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ebfe91815c5dfe05aeb88f0d77a29311/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/7ed17ad1af31606892c1afa34be1ecd3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2566230d7b831b77851f6f0d58b9e66c/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/09233f7843b736c6e94c25b9fc46433d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b4fcb9bd2e3bf1bbed25a03af6635379/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/955ca7357e5ed6b6444e715ec6907558/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a8bd71f995572f5adbb20140a8ce2e67/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/482f3a492584fea769ef7f583dd9fa02/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4ad5477a3d3609f56f80440696b3f4b5/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/228985ea5f48abd50a25770564cdb9de/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/75a26d5ad0196ec746c8bb301b4bcda2/AndroidManifest.xml:1:1-3:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b329abdb5475ea5363230669d06cfba/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee6fd2e2c35160b418cdc0f875b780d0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e4bc0f5ae76963a05809f8312022604d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b2a3021605e58112ff7d3763a733416c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/41ec51eccab750dd13115463af9c152d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb5d2d9dfc79f05accf226378c08f866/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9933acdd94ce32964be62a7b759269e7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c942499b465d2f4f4741c8182748fa81/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/302765a3b1f7a6e0da68bb3b36ab298f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/efe17fa5f2b7c7ba1c978e498c97c69f/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ce35fea3c2f301a3fcf1a77e39738ae2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/92bba8cf917b8fe7a4a585265cecc171/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+	package
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:2:5-27
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:4:5-67
+MERGED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+MERGED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:14:5-67
+MERGED from [:react-native-maps] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/rg/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/b6c6f1fb3eedf804fb8c77cd40e32e06/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/rg/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/b6c6f1fb3eedf804fb8c77cd40e32e06/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:5:22-75
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:6:5-68
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:6:22-66
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [:react-native-maps] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+MERGED from [:react-native-maps] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:9:5-71
+MERGED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+MERGED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:9:22-68
+application
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:10:5-30:19
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/118e2f236c2c46be82b78f73704d90ea/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/118e2f236c2c46be82b78f73704d90ea/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:22:5-27:19
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/rg/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/b6c6f1fb3eedf804fb8c77cd40e32e06/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/rg/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/b6c6f1fb3eedf804fb8c77cd40e32e06/AndroidManifest.xml:13:5-20
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/7ed17ad1af31606892c1afa34be1ecd3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/7ed17ad1af31606892c1afa34be1ecd3/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2566230d7b831b77851f6f0d58b9e66c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2566230d7b831b77851f6f0d58b9e66c/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/09233f7843b736c6e94c25b9fc46433d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/09233f7843b736c6e94c25b9fc46433d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/228985ea5f48abd50a25770564cdb9de/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/228985ea5f48abd50a25770564cdb9de/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/75a26d5ad0196ec746c8bb301b4bcda2/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/75a26d5ad0196ec746c8bb301b4bcda2/AndroidManifest.xml:2:3-17
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee6fd2e2c35160b418cdc0f875b780d0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee6fd2e2c35160b418cdc0f875b780d0/AndroidManifest.xml:25:5-29:19
+	android:label
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:12:7-39
+	android:icon
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:13:7-41
+	android:allowBackup
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:14:7-34
+	android:theme
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:15:7-38
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:11:7-38
+activity#com.voiceaid.MainActivity
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:16:7-25:18
+	android:label
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:20:9-51
+	android:configChanges
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:19:9-79
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:17:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:21:9-24:25
+action#android.intent.action.MAIN
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:22:13-65
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:22:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:23:13-73
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:23:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:26:7-84
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:26:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:27:7-29:63
+	android:value
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:29:6-61
+	android:name
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:28:6-51
+uses-sdk
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-tts] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-tts/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-tts] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-tts/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:8:5-11:54
+MERGED from [:react-native-immediate-phone-call] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-immediate-phone-call/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-immediate-phone-call] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-immediate-phone-call/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-maps] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/118e2f236c2c46be82b78f73704d90ea/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-location-15.0.1.aar/118e2f236c2c46be82b78f73704d90ea/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/rg/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/b6c6f1fb3eedf804fb8c77cd40e32e06/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.7] /Users/rg/.gradle/caches/transforms-1/files-1.1/react-native-0.57.7.aar/b6c6f1fb3eedf804fb8c77cd40e32e06/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ebfe91815c5dfe05aeb88f0d77a29311/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/ebfe91815c5dfe05aeb88f0d77a29311/AndroidManifest.xml:20:5-44
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:5:5-43
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/7ed17ad1af31606892c1afa34be1ecd3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-tasks-15.0.1.aar/7ed17ad1af31606892c1afa34be1ecd3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2566230d7b831b77851f6f0d58b9e66c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-places-placereport-15.0.1.aar/2566230d7b831b77851f6f0d58b9e66c/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/09233f7843b736c6e94c25b9fc46433d/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/09233f7843b736c6e94c25b9fc46433d/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b4fcb9bd2e3bf1bbed25a03af6635379/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/b4fcb9bd2e3bf1bbed25a03af6635379/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/955ca7357e5ed6b6444e715ec6907558/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/955ca7357e5ed6b6444e715ec6907558/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a8bd71f995572f5adbb20140a8ce2e67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/a8bd71f995572f5adbb20140a8ce2e67/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/482f3a492584fea769ef7f583dd9fa02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/482f3a492584fea769ef7f583dd9fa02/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4ad5477a3d3609f56f80440696b3f4b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/4ad5477a3d3609f56f80440696b3f4b5/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/228985ea5f48abd50a25770564cdb9de/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/228985ea5f48abd50a25770564cdb9de/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:21:5-23:54
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b329abdb5475ea5363230669d06cfba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/2b329abdb5475ea5363230669d06cfba/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee6fd2e2c35160b418cdc0f875b780d0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee6fd2e2c35160b418cdc0f875b780d0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e4bc0f5ae76963a05809f8312022604d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/e4bc0f5ae76963a05809f8312022604d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b2a3021605e58112ff7d3763a733416c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/b2a3021605e58112ff7d3763a733416c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/41ec51eccab750dd13115463af9c152d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/41ec51eccab750dd13115463af9c152d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb5d2d9dfc79f05accf226378c08f866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/eb5d2d9dfc79f05accf226378c08f866/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9933acdd94ce32964be62a7b759269e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/9933acdd94ce32964be62a7b759269e7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c942499b465d2f4f4741c8182748fa81/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/c942499b465d2f4f4741c8182748fa81/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/302765a3b1f7a6e0da68bb3b36ab298f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/302765a3b1f7a6e0da68bb3b36ab298f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/efe17fa5f2b7c7ba1c978e498c97c69f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/efe17fa5f2b7c7ba1c978e498c97c69f/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ce35fea3c2f301a3fcf1a77e39738ae2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/ce35fea3c2f301a3fcf1a77e39738ae2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/92bba8cf917b8fe7a4a585265cecc171/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/92bba8cf917b8fe7a4a585265cecc171/AndroidManifest.xml:20:5-44
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:react-native-voice] /Users/rg/Documents/Projects/VoiceAid/node_modules/react-native-voice/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:9-51
+	android:targetSdkVersion
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:15.0.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-maps-15.0.0.aar/265f0e343f77bf181fe55007e9858505/AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-base-15.0.1.aar/23be50318c35160cdc28128709087c5e/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/09233f7843b736c6e94c25b9fc46433d/AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.android.gms:play-services-basement:15.0.1] /Users/rg/.gradle/caches/transforms-1/files-1.1/play-services-basement-15.0.1.aar/09233f7843b736c6e94c25b9fc46433d/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:10:13-66
+	android:name
+		ADDED from [com.google.maps.android:android-maps-utils:0.5] /Users/rg/.gradle/caches/transforms-1/files-1.1/android-maps-utils-0.5.aar/8bcef1bd69cc14d8e8b57057cbebf3ed/AndroidManifest.xml:9:13-58
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/rg/Documents/Projects/VoiceAid/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee6fd2e2c35160b418cdc0f875b780d0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/ee6fd2e2c35160b418cdc0f875b780d0/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v4:26.1.0] /Users/rg/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/fbbf9c308a056ece0a7d621e1956fe2b/AndroidManifest.xml:27:13-51

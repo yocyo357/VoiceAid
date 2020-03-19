@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>D44C60CE-1FB7-4004-869F-E8EE264D9871</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D44C60CE-1FB7-4004-869F-E8EE264D9871.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>VoiceAid project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>VoiceAid</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace VoiceAid with scheme VoiceAid and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>570691066.22542906</real>
+			<key>timeStoppedRecording</key>
+			<real>570691076.52100503</real>
+			<key>title</key>
+			<string>Building workspace VoiceAid with scheme VoiceAid and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>D44C60CE-1FB7-4004-869F-E8EE264D9871</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
